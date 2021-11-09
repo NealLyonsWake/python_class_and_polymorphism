@@ -26,6 +26,17 @@ class Pokemon():
     def some_other_method():
         print('.....executed....')
 
+
+
+
+
+
+
+
+
+
+
+
 """
 sandslash = Pokemon(name="Sandslash", hp=70, can_evolve=False)
 magikarp = Pokemon(name="Magikarp", hp=80, can_evolve=True)
